@@ -3,3 +3,6 @@ Hello HanMeimei，My name is Lilei。
 
 Hello Lilei，I'm a student。
 Me too。
+
+I'm a boy.
+Are you sure?
