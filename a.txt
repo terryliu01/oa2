@@ -2,3 +2,4 @@ Hello，My name is HanMeimei。
 Hello HanMeimei，My name is Lilei。
 
 Hello Lilei，I'm a student。
+Me too。
