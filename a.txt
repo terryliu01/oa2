@@ -4,8 +4,11 @@ Hello HanMeimei，My name is Lilei。
 Hello Lilei，I'm a student。
 Me too。
 
+
 This is my friend,Lucy.
 Lucy,this is my friend Lilei.
 
 
-I'm 12 years old.
+Lilei Say:"I'm a boy".
+Are you sure?
+
